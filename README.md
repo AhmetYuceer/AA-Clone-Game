@@ -7,5 +7,5 @@ Game Link : https://ahmetyuceer.itch.io/aa-clone-game
 
 Gameplay :
 
-![a](https://github.com/AhmetYuceer/AA-Clone-Game/assets/93636472/23e23a58-8bf0-4a3a-9e98-15f6fee2388f)
+![gameplay](https://github.com/AhmetYuceer/AA-Clone-Game/assets/93636472/1d6843df-6e86-43fc-a8bc-2ab4e167b698)
 
