@@ -1,6 +1,8 @@
 # AA-Clone-Game
 Unity cloned version of the game called AA
 
+Unity Version : 2022.3.13f1
+
 Game Link : https://ahmetyuceer.itch.io/aa-clone-game
 
 Gameplay :
