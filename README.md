@@ -1,4 +1,4 @@
-# AA-Clone-Game-
+# AA-Clone-Game
 Unity cloned version of the game called AA
 
 Game Link : https://ahmetyuceer.itch.io/aa-clone-game
